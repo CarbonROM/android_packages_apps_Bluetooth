@@ -1,4 +1,5 @@
 {
   "pushCert": "certificate version 0.1\npusher Christian Oder \u003cmyself5@carbonrom.org\u003e 1670992982 +0100\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_packages_apps_Bluetooth\nnonce 1670992982-843D9EAAE7CD6424608C0262D22B9AE273A12D49\n\n0000000000000000000000000000000000000000 f56996c4104242be5ea56b56edebd4b7e756d817 refs/for/cr-9.0%topic\u003dR_asb_2022-12,submit\n-----BEGIN PGP SIGNATURE-----\n\niQJKBAABCAA0FiEEAeKysoG6T9uCVbCUU4O8v8DvjyIFAmOZVFYWHG15c2VsZjVA\nY2FyYm9ucm9tLm9yZwAKCRBTg7y/wO+PInrGD/4qvZ9EWMN7M34RIYCBekoqClnT\nNQPyjKTl+Qcnj4JAH1maOvlI2dMW9TZsuMif3rCgIr6W/NvzKOh9apVJ3eZgjMqH\nCp3ySzGcSJHB0kFUwssfsJoweMsBVE/bUNm6WR7ydwh07SVAjEBPVbpP6y8IgL2u\nh3McdQ7FswBWcSMyls3kYpEqa7rAVKaoxJzJqCdNN6Qo1rsTnXU/tLpI2QNWec2e\nridvPcnqPEqTQqBa3CpBomdBO8HkSFwHJ0vY3zuqtEQ/ZGk3Hy23Y48TXABs3rDq\n5qXH4kd3St6SJzE5b80SoybpQYRqeOQcODN/YdSSsPjLJb1C961HpTum0nUYL8t/\niqAcFjuXY2UaRTl3yYsbV0EgqV9MsAyUCgU1/StBrtCi4Vb/UTj2PWDhe/EXkSmR\n5z5nos4EYuE73fo/IxQ/1SAkhEp9BpMrZUfVnU+8TunKaRCPZ7oZFgAurgRM0Bs0\nyWLMC7lWkDOPyOcBdgnT6hK/7mob9vJKOJUwy3uWAAvJSAzq9q/RGNbQeTYomsHS\n4bEcLp72jehX8q7uiqVUePlB45Es3azAXKQLZAsTqVQEY5JMT+uIPo1s3NtzzAUn\nLQcfkSnoS7J2FUbYyNQofLs93RyGHDxQ3okU46DLSRjZAX1PRO+Va/xLHqXaroq+\nGPMmVajo2Vp02RJuGw\u003d\u003d\n\u003dLjPg\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [],
+  "submitRequirementResults": []
 }
